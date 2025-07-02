@@ -7,19 +7,33 @@ This repository contains the **Google Drive** project, which provides functional
 - Easy file sharing  
 - Efficient organization and access  
 
-## 🛠 Installation  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/DayanandK01/google-drive.git
-   ```
-2. Navigate to the project directory:  
-   ```sh
-   cd google-drive
-   ```
+## 🛠️ Installation
 
-## 📜 Usage  
-1. Set up dependencies (if any).  
-2. Run the project using the appropriate command.  
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/DayanandK01/uber-clone.git
+   cd uber-clone
+   ```
+2. **Install frontend dependencies**
+   ```bash
+   npm install
+   ```
+3. **Install backend dependencies**
+   ```bash
+   npm install
+   ```
+4. **Environmet variables**
+   MONGO_URI
+   JWT_SECRET_KEY
+   
+5. **Run the backend
+   ```bash
+   npm run server
+   ```
+6. **Run the Frontend**
+   ```bash
+   npm start
+   ```
 
 ## 🤝 Contributing  
 Contributions are welcome! Feel free to fork the repository and submit a pull request.  
